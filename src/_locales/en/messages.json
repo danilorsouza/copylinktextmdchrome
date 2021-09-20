@@ -1,0 +1,17 @@
+{
+    "extensionName": {
+      "message": "Copy LinkTextMD",
+      "description": ""
+    },
+  
+    "extensionDescription": {
+      "message": "Copies link and text as - [text](link)",
+      "description": ""
+    },
+  
+    "menuItemCopyLinkText": {
+      "message": "Copy link text",
+      "description": ""
+    }
+  }
+  
